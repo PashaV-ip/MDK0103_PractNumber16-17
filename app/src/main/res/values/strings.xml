@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">17 Практическая</string>
+    <string name="about_the_program_menu">О программе</string>
+    <string name="on_theme_menu">Включить ночную тему</string>
+    <string name="off_theme_menu">Включить дневную тему</string>
+    <string name="about_the_program">
+        """
+        Приложение создано для
+        демонстрации изменения темы
+        через item в меню.
+        """
+    </string>
+</resources>
